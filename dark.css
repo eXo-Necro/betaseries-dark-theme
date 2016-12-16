@@ -673,3 +673,10 @@ body[contenteditable="true"][dir="ltr"] > blockquote {
 div.notification.notification__push {
     background-color: #2e3035!important;
 }
+.tagsList .tags span {
+	background-color: #888;
+	color: #fff;
+}
+#faceboxTagsList span.in {
+	background-color: #798847;
+}
